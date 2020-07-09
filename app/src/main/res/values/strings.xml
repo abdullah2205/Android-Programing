@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tux Apps</string>
+    <string name="nama_aplikasi">Nama</string>
+    <string name="deskripsi_aplikasi">Deskripsi</string>
+    <string name="versi_aplikasi">Versi</string>
+    <string name="tipe_aplikasi">Tipe</string>
+    <string name="arsitektur_aplikasi">Arsitektur</string>
+    <string name="rilis_aplikasi">Rilis</string>
+    <string name="tanggal_rilis">Tanggal</string>
+    <string name="ukuran_file">Ukuran</string>
+
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="about_name">Muhammad Abdullah</string>
+    <string name="about_email">ma22052000@gmail.com</string>
+    <string name="jawab0">Ini merupakan aplikasi Submission Dicoding sederhana bertema Aplikasi yang bersifat Open Source.\n </string>
+    <string name="tanya1">- Kenapa membuat Aplikasi dengan Tema Software Open Source?</string>
+    <string name="jawab1">
+        \tKarena saya ingin agar banyak orang mengetahui ada banyak Software Open Source yang tidak kalah Powerful dari Software Berlisensi.\n\tDan Aplikasi ini diharapkan agar dapat mengurangi tindakan pembajakan software di Indonesia saat ini. \n\tJuga untuk Developer Open Source agar bisa terus Berkembang dan Lebih Maju.
+    </string>
+    <string name="end">Aplikasi ini dibuat di OS Linux Ubuntu 18.04 menggunakan Android Studio 3.6.3.</string>
+    <string name="todo">TODO</string>
+    <string name="judul_versi">Version</string>
+    <string name="judul_arsitektur">Architecture</string>
+    <string name="judul_tanggal">Date</string>
+    <string name="judul_rilis">Release Channel</string>
+    <string name="judul_ukuran">File Size</string>
+    <string name="judul_tipe">Package Type</string>
+    <string name="judul_detail">Application Details</string>
+</resources>

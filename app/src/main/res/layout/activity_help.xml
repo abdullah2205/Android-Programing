@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:layout_marginLeft="8dp"
+    android:layout_marginTop="4dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginBottom="4dp"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="30dp"
+        android:src="@drawable/logo"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:id="@+id/bantuan0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:textSize="17sp"
+        android:text="@string/jawab0"
+        android:layout_below="@id/logo"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tanya1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bantuan0"
+        android:textSize="17sp"
+        android:layout_marginBottom="8dp"
+        android:textColor="@android:color/black"
+        android:text="@string/tanya1"/>
+
+    <TextView
+        android:id="@+id/bantuan1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:textSize="16sp"
+        android:text="@string/jawab1"
+        android:layout_below="@id/tanya1"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bantuan1"
+        android:textColor="@android:color/black"
+        android:text="@string/end" />
+
+</RelativeLayout>
